@@ -39,4 +39,7 @@ public class MainActivity extends AppCompatActivity {
         move_sun.start();
     }
 
+    public void toHello(View view) {
+        setContentView(R.layout.activity_hello);
+    }
 }

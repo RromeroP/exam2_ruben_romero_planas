@@ -2,4 +2,6 @@
     <string name="app_name">Exam2</string>
     <string name="posta_de_sol">Posta de Sol</string>
     <string name="this_is_a_sun">This is a sun</string>
+    <string name="face_ico">face_ico</string>
+    <string name="moon_ico">moon_ico</string>
 </resources>
